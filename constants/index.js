@@ -1,0 +1,3 @@
+export const supabaseUrl = "https://krxkppsmujufwayvllia.supabase.co";
+export const supabaseAnonKey =
+	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtyeGtwcHNtdWp1ZndheXZsbGlhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjUzNjEzNjEsImV4cCI6MjA0MDkzNzM2MX0.WSYFdEWNMlD3AwCNtERjEnd3lpMEnAXvAmj2VpZgbSs";
